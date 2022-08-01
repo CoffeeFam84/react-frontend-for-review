@@ -1,0 +1,1916 @@
+{
+  "data": [
+    {
+      "data": {
+        "stringId": 76,
+        "text": "從"
+      }
+    },
+    {
+      "data": {
+        "stringId": 80,
+        "text": "到"
+      }
+    },
+    {
+      "data": {
+        "stringId": 82,
+        "text": "選擇貨幣"
+      }
+    },
+    {
+      "data": {
+        "stringId": 106,
+        "text": "沒有看到您加入的池?"
+      }
+    },
+    {
+      "data": {
+        "stringId": 132,
+        "text": "輸入"
+      }
+    },
+    {
+      "data": {
+        "stringId": 136,
+        "text": "無效對"
+      }
+    },
+    {
+      "data": {
+        "stringId": 138,
+        "text": "即時交易代幣"
+      }
+    },
+    {
+      "data": {
+        "stringId": 140,
+        "text": "滑點公差"
+      }
+    },
+    {
+      "data": {
+        "stringId": 142,
+        "text": "設置"
+      }
+    },
+    {
+      "data": {
+        "stringId": 144,
+        "text": "TX 截止時間（分鐘）"
+      }
+    },
+    {
+      "data": {
+        "stringId": 146,
+        "text": "交換聲音"
+      }
+    },
+    {
+      "data": {
+        "stringId": 148,
+        "text": "有趣的聲音創造真正身臨其境的交易體驗"
+      }
+    },
+    {
+      "data": {
+        "stringId": 150,
+        "text": "輸入有效的截止日期"
+      }
+    },
+    {
+      "data": {
+        "stringId": 152,
+        "text": "您的交易可能會失敗"
+      }
+    },
+    {
+      "data": {
+        "stringId": 154,
+        "text": "您的交易可能提前"
+      }
+    },
+    {
+      "data": {
+        "stringId": 156,
+        "text": "輸入有效的滑點百分比"
+      }
+    },
+    {
+      "data": {
+        "stringId": 158,
+        "text": "如果價格的不利變化超過此百分比，您的交易將恢復."
+      }
+    },
+    {
+      "data": {
+        "stringId": 162,
+        "text": "近期交易"
+      }
+    },
+    {
+      "data": {
+        "stringId": 164,
+        "text": "请连接您的钱包"
+      }
+    },
+    {
+      "data": {
+        "stringId": 166,
+        "text": "近期无交易"
+      }
+    },
+    {
+      "data": {
+        "stringId": 168,
+        "text": "清除所有"
+      }
+    },
+    {
+      "data": {
+        "stringId": 278,
+        "text": "交換"
+      }
+    },
+    {
+      "data": {
+        "stringId": 280,
+        "text": "流動性"
+      }
+    },
+    {
+      "data": {
+        "stringId": 284,
+        "text": "交換"
+      }
+    },
+    {
+      "data": {
+        "stringId": 286,
+        "text": "您的流動性"
+      }
+    },
+    {
+      "data": {
+        "stringId": 288,
+        "text": "移除流動性以收回代幣"
+      }
+    },
+    {
+      "data": {
+        "stringId": 290,
+        "text": "連接到錢包以查看您的流動性"
+      }
+    },
+    {
+      "data": {
+        "stringId": 292,
+        "text": "解鎖錢包"
+      }
+    },
+    {
+      "data": {
+        "stringId": 294,
+        "text": "您的 %asset% 餘額"
+      }
+    },
+    {
+      "data": {
+        "stringId": 295,
+        "text": "查找其他 LP 代幣"
+      }
+    },
+    {
+      "data": {
+        "stringId": 296,
+        "text": "增加流動性"
+      }
+    },
+    {
+      "data": {
+        "stringId": 297,
+        "text": "去除流動性"
+      }
+    },
+    {
+      "data": {
+        "stringId": 298,
+        "text": "增加流動性以接收 LP 代幣"
+      }
+    },
+    {
+      "data": {
+        "stringId": 299,
+        "text": "加載中"
+      }
+    },
+    {
+      "data": {
+        "stringId": 300,
+        "text": "沒有發現流動性"
+      }
+    },
+    {
+      "data": {
+        "stringId": 301,
+        "text": "沒有找到游泳池"
+      }
+    },
+    {
+      "data": {
+        "stringId": 302,
+        "text": "管理令牌"
+      }
+    },
+    {
+      "data": {
+        "stringId": 303,
+        "text": "选择一个列表"
+      }
+    },
+    {
+      "data": {
+        "stringId": 304,
+        "text": "管理"
+      }
+    },
+    {
+      "data": {
+        "stringId": 306,
+        "text": "\u67e5\u770b\u5eda\u623f"
+      }
+    },
+    {
+      "data": {
+        "stringId": 308,
+        "text": "Telegram"
+      }
+    },
+    {
+      "data": {
+        "stringId": 310,
+        "text": "\u7db2\u8a8c"
+      }
+    },
+    {
+      "data": {
+        "stringId": 312,
+        "text": "Github"
+      }
+    },
+    {
+      "data": {
+        "stringId": 314,
+        "text": "Twitter"
+      }
+    },
+    {
+      "data": {
+        "stringId": 316,
+        "text": "\u5132\u503c"
+      }
+    },
+    {
+      "data": {
+        "stringId": 318,
+        "text": "導入池"
+      }
+    },
+    {
+      "data": {
+        "stringId": 319,
+        "text": "使用此工具查找不會自動出現在界面中的對"
+      }
+    },
+    {
+      "data": {
+        "stringId": 320,
+        "text": "連接到錢包以查找礦池"
+      }
+    },
+    {
+      "data": {
+        "stringId": 321,
+        "text": "選擇一個代幣以找到您的流動性"
+      }
+    },
+    {
+      "data": {
+        "stringId": 322,
+        "text": "選擇令牌"
+      }
+    },
+    {
+      "data": {
+        "stringId": 323,
+        "text": "找到池!"
+      }
+    },
+    {
+      "data": {
+        "stringId": 324,
+        "text": "你在這個池中還沒有流動性."
+      }
+    },
+    {
+      "data": {
+        "stringId": 325,
+        "text": "No pool found"
+      }
+    },
+    {
+      "data": {
+        "stringId": 326,
+        "text": "創建池"
+      }
+    },
+    {
+      "data": {
+        "stringId": 328,
+        "text": "無效對"
+      }
+    },
+    {
+      "data": {
+        "stringId": 329,
+        "text": "抵押"
+      }
+    },
+    {
+      "data": {
+        "stringId": 330,
+        "text": "輸入金額"
+      }
+    },
+    {
+      "data": {
+        "stringId": 331,
+        "text": "賺取"
+      }
+    },
+    {
+      "data": {
+        "stringId": 332,
+        "text": "\u5df2\u8cea\u62bc\u7684\u4ee3\u5e63"
+      }
+    },
+    {
+      "data": {
+        "stringId": 333,
+        "text": "抵押的提供"
+      }
+    },
+    {
+      "data": {
+        "stringId": 334,
+        "text": "\u6bcf\u7576\u60a8\u8cea\u62bc\u8207\u53d6\u56de ROBUST \u4ee3\u5e63\u6642\uff0c\u5408\u7d04\u90fd\u5c07\u81ea\u52d5\u70ba\u60a8\u6536\u5272 ROBUST \u734e\u52f5\uff01"
+      }
+    },
+    {
+      "data": {
+        "stringId": 335,
+        "text": "鎖定總價值"
+      }
+    },
+    {
+      "data": {
+        "stringId": 336,
+        "text": "解鎖錢包以訪問農場、賭注和彩票的統計數據"
+      }
+    },
+    {
+      "data": {
+        "stringId": 337,
+        "text": "我的總結"
+      }
+    },
+    {
+      "data": {
+        "stringId": 338,
+        "text": "\u526f\u4e3b\u5eda\u6b63\u5728\u70ba\u6240\u6709\u7684 SYRUP \u6301\u6709\u8005\u70f9\u716e\u795e\u79d8\u6599\u7406"
+      }
+    },
+    {
+      "data": {
+        "stringId": 339,
+        "text": "歡迎來到ROBUSTSWAP"
+      }
+    },
+    {
+      "data": {
+        "stringId": 340,
+        "text": "\u5df2\u8cea\u62bc\u7684 SYRUP \u4ee3\u5e63"
+      }
+    },
+    {
+      "data": {
+        "stringId": 341,
+        "text": "每年"
+      }
+    },
+    {
+      "data": {
+        "stringId": 342,
+        "text": "\u5df2\u8cfa\u53d6\u7684 XVS \u4ee3\u5e63"
+      }
+    },
+    {
+      "data": {
+        "stringId": 343,
+        "text": "每月"
+      }
+    },
+    {
+      "data": {
+        "stringId": 344,
+        "text": "\u8cea\u62bc\u60a8\u7684 SYRUP \u4ee5\u8cfa\u53d6\u65b0\u5c08\u6848\u7684\u4ee3\u5e63\u3002"
+      }
+    },
+    {
+      "data": {
+        "stringId": 345,
+        "text": "每週"
+      }
+    },
+    {
+      "data": {
+        "stringId": 346,
+        "text": "\u734e\u52f5\u5c07\u5728\u5404\u5340\u584a\u8a08\u7b97\u3002\u7e3d\u734e\u52f5\u5c07\u5728\u5404\u5c08\u6848\u6316\u7926\u6642\u671f\u7684\u5c3e\u8072\u6642\u81ea\u52d5\u5206\u767c\u3002"
+      }
+    },
+    {
+      "data": {
+        "stringId": 347,
+        "text": "每日"
+      }
+    },
+    {
+      "data": {
+        "stringId": 348,
+        "text": "\u8cc7\u91d1\u6c60"
+      }
+    },
+    {
+      "data": {
+        "stringId": 349,
+        "text": "Earnings"
+      }
+    },
+    {
+      "data": {
+        "stringId": 350,
+        "text": "\u5373\u5c07\u5230\u4f86"
+      }
+    },
+    {
+      "data": {
+        "stringId": 351,
+        "text": "ROBUST Holdings"
+      }
+    },
+    {
+      "data": {
+        "stringId": 352,
+        "text": "年利率"
+      }
+    },
+    {
+      "data": {
+        "stringId": 353,
+        "text": "TVL All Pools"
+      }
+    },
+    {
+      "data": {
+        "stringId": 354,
+        "text": "\u7e3d\u6d41\u52d5\u6027"
+      }
+    },
+    {
+      "data": {
+        "stringId": 355,
+        "text": "配對信息"
+      }
+    },
+    {
+      "data": {
+        "stringId": 356,
+        "text": "查看合同"
+      }
+    },
+    {
+      "data": {
+        "stringId": 357,
+        "text": "立即交易"
+      }
+    },
+    {
+      "data": {
+        "stringId": 358,
+        "text": "ROBUST \u50f9\u683c"
+      }
+    },
+    {
+      "data": {
+        "stringId": 359,
+        "text": "價錢"
+      }
+    },
+    {
+      "data": {
+        "stringId": 360,
+        "text": "\u5df2\u8cfa\u53d6 %asset% \u4ee3\u5e63"
+      }
+    },
+    {
+      "data": {
+        "stringId": 362,
+        "text": "\u8ddd\u96e2\u6316\u7926\u5b8c\u7562\uff0c\u9084\u5269 %num% \u500b\u5340\u584a"
+      }
+    },
+    {
+      "data": {
+        "stringId": 364,
+        "text": "\u7e3d\u8cea\u62bc SYRUP"
+      }
+    },
+    {
+      "data": {
+        "stringId": 380,
+        "text": "1 ROBUST = 1 SYRUP"
+      }
+    },
+    {
+      "data": {
+        "stringId": 382,
+        "text": "\u5373\u5c07\u5230\u4f86\u2026"
+      }
+    },
+    {
+      "data": {
+        "stringId": 384,
+        "text": "\u60a8\u7684\u8cea\u62bc"
+      }
+    },
+    {
+      "data": {
+        "stringId": 386,
+        "text": "\u6316\u7926\u5c07\u5728 %num% \u500b\u5340\u584a\u5f8c\u958b\u59cb"
+      }
+    },
+    {
+      "data": {
+        "stringId": 388,
+        "text": "\u5df2\u5b8c\u6210"
+      }
+    },
+    {
+      "data": {
+        "stringId": 390,
+        "text": "\u6316\u7926\u5c07\u5728 %num% \u500b\u5340\u584a\u5f8c\u7d50\u675f"
+      }
+    },
+    {
+      "data": {
+        "stringId": 392,
+        "text": "\u5c08\u6848\u7db2\u7ad9"
+      }
+    },
+    {
+      "data": {
+        "stringId": 394,
+        "text": "\u53d6\u56de SYRUP"
+      }
+    },
+    {
+      "data": {
+        "stringId": 395,
+        "text": "Hot"
+      }
+    },
+    {
+      "data": {
+        "stringId": 400,
+        "text": "SYRUP \u6301\u6709\u8005\u5c07\u6309\u6bd4\u4f8b\u5206\u5f97\u6bcf\u5929 25% \u7684 ROBUST \u5340\u584a\u734e\u52f5 (\u6bcf\u5340\u584a 10 ROBUST)\uff0c\u734e\u52f5\u5c07\u65bc\u5404\u5340\u584a\u5206\u767c\u3002"
+      }
+    },
+    {
+      "data": {
+        "stringId": 401,
+        "text": "Jungle Type"
+      }
+    },
+    {
+      "data": {
+        "stringId": 402,
+        "text": "\u8cea\u62bc SYRUP \u4ee5\u8cfa\u53d6\u65b0\u4ee3\u5e63\u3002"
+      }
+    },
+    {
+      "data": {
+        "stringId": 403,
+        "text": "Withdrawl Lockup"
+      }
+    },
+    {
+      "data": {
+        "stringId": 404,
+        "text": "可隨時退出質押。"
+      }
+    },
+    {
+      "data": {
+        "stringId": 406,
+        "text": "\u734e\u52f5\u5c07\u6309\u5404\u5340\u584a\u8a08\u7b97\u3002"
+      }
+    },
+    {
+      "data": {
+        "stringId": 408,
+        "text": "\u7e3d\u5171"
+      }
+    },
+    {
+      "data": {
+        "stringId": 409,
+        "text": "Apply for listing"
+      }
+    },
+    {
+      "data": {
+        "stringId": 410,
+        "text": "\u7d50\u675f"
+      }
+    },
+    {
+      "data": {
+        "stringId": 411,
+        "text": "Start"
+      }
+    },
+    {
+      "data": {
+        "stringId": 412,
+        "text": "\u6aa2\u8996\u5c08\u6848\u7db2\u7ad9"
+      }
+    },
+    {
+      "data": {
+        "stringId": 414,
+        "text": "\u60a8\u7684\u5c08\u6848\uff1f \ud83d\udc40"
+      }
+    },
+    {
+      "data": {
+        "stringId": 416,
+        "text": "\u70ba\u60a8\u7684\u4ee3\u5e63\u5efa\u7acb\u8cc7\u91d1\u6c60"
+      }
+    },
+    {
+      "data": {
+        "stringId": 418,
+        "text": "\u7acb\u5373\u7533\u8acb"
+      }
+    },
+    {
+      "data": {
+        "stringId": 420,
+        "text": "\u7b2c\u4e00\u56de\u5408\uff1a\u8cfc\u8cb7"
+      }
+    },
+    {
+      "data": {
+        "stringId": 424,
+        "text": "%num% ROBUST"
+      }
+    },
+    {
+      "data": {
+        "stringId": 426,
+        "text": "\u82b1\u8cbb ROBUST \u4f86\u8cfc\u8cb7\u7968\u5238\uff0c\u70ba\u5f69\u5238\u734e\u6c60\u505a\u51fa\u8ca2\u737b\u3002\u7968\u5238\u8cfc\u8cb7\u5728\u958b\u734e\u524d\u7d04 30 \u5206\u9418\u7d50\u675f\u3002\u5982\u679c\u60a8\u7684\u5f69\u5238\u51fa\u73fe 2\u30013 \u6216 4 \u500b\u4e2d\u734e\u865f\u78bc\u4e14\u90e8\u4f4d\u76f8\u7b26\uff0c\u5c31\u80fd\u8d0f\u53d6\u734e\u91d1\uff01\u795d\u60a8\u597d\u904b\uff01"
+      }
+    },
+    {
+      "data": {
+        "stringId": 428,
+        "text": "\u60a8\u5728\u6b64\u56de\u5408\u7684\u7968\u5238\u7e3d\u6578"
+      }
+    },
+    {
+      "data": {
+        "stringId": 430,
+        "text": "\u8cfc\u8cb7\u7968\u5238"
+      }
+    },
+    {
+      "data": {
+        "stringId": 432,
+        "text": "\u67e5\u770b\u60a8\u7684\u7968\u5238"
+      }
+    },
+    {
+      "data": {
+        "stringId": 434,
+        "text": "\u8cfc\u8cb7\u7968\u5238\u7684\u4f30\u8a08\u5269\u9918\u6642\u9593"
+      }
+    },
+    {
+      "data": {
+        "stringId": 438,
+        "text": "\u95dc\u9589"
+      }
+    },
+    {
+      "data": {
+        "stringId": 440,
+        "text": "\u6700\u65b0\u4e2d\u734e\u865f\u78bc"
+      }
+    },
+    {
+      "data": {
+        "stringId": 442,
+        "text": "\u6709 4 \u500b\u865f\u78bc\u76f8\u7b26\u7684\u7968\u5238\uff1a"
+      }
+    },
+    {
+      "data": {
+        "stringId": 444,
+        "text": "\u6709 3 \u500b\u865f\u78bc\u76f8\u7b26\u7684\u7968\u5238\uff1a"
+      }
+    },
+    {
+      "data": {
+        "stringId": 446,
+        "text": "\u6709 2 \u500b\u865f\u78bc\u76f8\u7b26\u7684\u7968\u5238\uff1a"
+      }
+    },
+    {
+      "data": {
+        "stringId": 448,
+        "text": "\u532f\u51fa\u6700\u8fd1\u4e2d\u734e\u865f\u78bc"
+      }
+    },
+    {
+      "data": {
+        "stringId": 450,
+        "text": "\u8f38\u5165\u8981\u8cfc\u8cb7\u7684\u7968\u5238\u6578\u91cf"
+      }
+    },
+    {
+      "data": {
+        "stringId": 452,
+        "text": "\u6700\u5927\u503c"
+      }
+    },
+    {
+      "data": {
+        "stringId": 453,
+        "text": "可用的提供"
+      }
+    },
+    {
+      "data": {
+        "stringId": 454,
+        "text": "%num% ROBUST \u53ef\u7528"
+      }
+    },
+    {
+      "data": {
+        "stringId": 456,
+        "text": "ROBUST \u7684\u6578\u91cf\u9700\u70ba 10 \u7684\u500d\u6578"
+      }
+    },
+    {
+      "data": {
+        "stringId": 457,
+        "text": "乘數"
+      }
+    },
+    {
+      "data": {
+        "stringId": 458,
+        "text": "1 \u5f35\u7968\u5238 = 10 ROBUST"
+      }
+    },
+    {
+      "data": {
+        "stringId": 460,
+        "text": "\u60a8\u5c07\u82b1\u8cbb\uff1a%num% ROBUST"
+      }
+    },
+    {
+      "data": {
+        "stringId": 462,
+        "text": "\u53d6\u6d88"
+      }
+    },
+    {
+      "data": {
+        "stringId": 464,
+        "text": "\u78ba\u8a8d"
+      }
+    },
+    {
+      "data": {
+        "stringId": 466,
+        "text": "\u8b66\u544a"
+      }
+    },
+    {
+      "data": {
+        "stringId": 468,
+        "text": "\u5f69\u5238\u8cfc\u8cb7\u70ba\u6700\u7d42\u72c0\u614b\u3002"
+      }
+    },
+    {
+      "data": {
+        "stringId": 470,
+        "text": "ROBUST \u7d93\u60a8\u82b1\u8cbb\u65bc\u8cfc\u8cb7\u7968\u5238\u5f8c\uff0c\u5373\u7121\u6cd5\u518d\u9000\u9084\u7d66\u60a8\u3002"
+      }
+    },
+    {
+      "data": {
+        "stringId": 472,
+        "text": "\u7968\u5238\u50c5\u9069\u7528\u65bc\u55ae\u6b21\u5f69\u5238\u958b\u734e\uff0c\u958b\u734e\u5f8c\u5373\u92b7\u6bc0\u3002"
+      }
+    },
+    {
+      "data": {
+        "stringId": 474,
+        "text": "\u8cfc\u8cb7\u7968\u5238\u4e26\u4e0d\u4fdd\u8b49\u60a8\u80fd\u8d0f\u5f97\u4efb\u4f55\u734e\u91d1\u3002\u8acb\u60a8\u5148\u77ad\u89e3\u98a8\u96aa\u5f8c\u518d\u53c3\u52a0\u3002"
+      }
+    },
+    {
+      "data": {
+        "stringId": 476,
+        "text": "\u6211\u660e\u767d"
+      }
+    },
+    {
+      "data": {
+        "stringId": 478,
+        "text": "\u7968\u5238\u8cfc\u8cb7\u5373\u6700\u7d42\u72c0\u614b\u3002ROBUST \u7528\u65bc\u8cfc\u8cb7\u7968\u5238\u5f8c\uff0c\u5373\u7121\u6cd5\u518d\u9000\u9084\u7d66\u60a8\u3002"
+      }
+    },
+    {
+      "data": {
+        "stringId": 480,
+        "text": "\u9818\u53d6\u734e\u91d1"
+      }
+    },
+    {
+      "data": {
+        "stringId": 482,
+        "text": "\u5f85\u9818\u53d6\u7684 ROBUST \u734e\u91d1"
+      }
+    },
+    {
+      "data": {
+        "stringId": 484,
+        "text": "\u7b2c\u4e8c\u56de\u5408\uff1a\u9818\u53d6"
+      }
+    },
+    {
+      "data": {
+        "stringId": 486,
+        "text": "\u60a8\u96a8\u6642\u53ef\u4ee5\u53d6\u56de\u3002"
+      }
+    },
+    {
+      "data": {
+        "stringId": 488,
+        "text": "\u7b49\u5f85\u78ba\u8a8d"
+      }
+    },
+    {
+      "data": {
+        "stringId": 490,
+        "text": "\u6211\u7684\u7968\u5238 (\u7e3d\u8a08\uff1a%TICKETS% \u5f35)"
+      }
+    },
+    {
+      "data": {
+        "stringId": 492,
+        "text": "\u4e0b\u4e00\u6b21\u5f69\u5238\u958b\u59cb\u7684\u4f30\u8a08\u6642\u9593"
+      }
+    },
+    {
+      "data": {
+        "stringId": 494,
+        "text": "\u6279\u51c6 ROBUST"
+      }
+    },
+    {
+      "data": {
+        "stringId": 495,
+        "text": "啟用"
+      }
+    },
+    {
+      "data": {
+        "stringId": 496,
+        "text": "SYRUP \u6301\u6709\u8005\u5c07\u6309\u6bd4\u4f8b\u5206\u5f97\u6bcf\u5929 40% \u7684 ROBUST \u5340\u584a\u734e\u52f5 (\u6bcf\u5340\u584a 10 ROBUST)\uff0c\u734e\u52f5\u5c07\u65bc\u5404\u5340\u584a\u5206\u767c\u3002"
+      }
+    },
+    {
+      "data": {
+        "stringId": 500,
+        "text": "輕鬆交易"
+      }
+    },
+    {
+      "data": {
+        "stringId": 502,
+        "text": "ROBUSTSWAP - 沒有機器人，無憂且快速的去中心化交易."
+      }
+    },
+    {
+      "data": {
+        "stringId": 504,
+        "text": "\u60a8\u5c07\u4f7f\u7528 ROBUST-BNB LP \u4ee3\u5e63\u4f86\u652f\u4ed8\u65b0\u4ee3\u5e63\uff0c\u9019\u8868\u793a\u60a8\u9700\u8981\u5728\u6d41\u52d5\u6027\u8cc7\u91d1\u6c60\u4e2d\u8cea\u62bc\u7b49\u91cf\u7684 ROBUST \u548c BNB \u624d\u80fd\u53c3\u8207\u3002"
+      }
+    },
+    {
+      "data": {
+        "stringId": 505,
+        "text": "\u53d6\u5f97"
+      }
+    },
+    {
+      "data": {
+        "stringId": 506,
+        "text": "\u53d6\u5f97 ROBUST-BNB LP >"
+      }
+    },
+    {
+      "data": {
+        "stringId": 507,
+        "text": "\u53d6\u5f97 LP"
+      }
+    },
+    {
+      "data": {
+        "stringId": 508,
+        "text": "\u5c08\u6848\u53d6\u5f97 BNB \u5f8c\uff0c\u800c ROBUSTSwap \u92b7\u6bc0 ROBUST\u3002"
+      }
+    },
+    {
+      "data": {
+        "stringId": 509,
+        "text": "賺 RBS."
+      }
+    },
+    {
+      "data": {
+        "stringId": 510,
+        "text": "\u60a8\u53d6\u5f97\u4ee3\u5e63\u3002"
+      }
+    },
+    {
+      "data": {
+        "stringId": 512,
+        "text": "\u60f3\u8981\u767c\u8d77\u60a8\u81ea\u5df1\u7684 IPO \u55ce\uff1f"
+      }
+    },
+    {
+      "data": {
+        "stringId": 514,
+        "text": "透過幣安智能鏈上增長最快的 AMM 專案和流動性提供商 ROBUSTSwap 來發起您的專案，將您的代幣直接引入 BSC 上最活躍且發展快速的社群。"
+      }
+    },
+    {
+      "data": {
+        "stringId": 516,
+        "text": "\u7533\u8acb\u767c\u8d77"
+      }
+    },
+    {
+      "data": {
+        "stringId": 520,
+        "text": "\u793e\u7fa4"
+      }
+    },
+    {
+      "data": {
+        "stringId": 522,
+        "text": "\u6838\u5fc3"
+      }
+    },
+    {
+      "data": {
+        "stringId": 526,
+        "text": "\u53ef\u7528"
+      }
+    },
+    {
+      "data": {
+        "stringId": 527,
+        "text": "Total Supply"
+      }
+    },
+    {
+      "data": {
+        "stringId": 528,
+        "text": "\u6211\u7684\u9322\u5305"
+      }
+    },
+    {
+      "data": {
+        "stringId": 529,
+        "text": "看詳細"
+      }
+    },
+    {
+      "data": {
+        "stringId": 530,
+        "text": "\u767b\u51fa"
+      }
+    },
+    {
+      "data": {
+        "stringId": 531,
+        "text": "\u5168\u90e8\u6536\u5272"
+      }
+    },
+    {
+      "data": {
+        "stringId": 532,
+        "text": "\u5168\u90e8\u6536\u5272 (%count%)"
+      }
+    },
+    {
+      "data": {
+        "stringId": 533,
+        "text": "合約地址"
+      }
+    },
+    {
+      "data": {
+        "stringId": 534,
+        "text": "ROBUST \u7d71\u8a08\u8cc7\u6599"
+      }
+    },
+    {
+      "data": {
+        "stringId": 535,
+        "text": "總供應量"
+      }
+    },
+    {
+      "data": {
+        "stringId": 536,
+        "text": "總鑄幣量"
+      }
+    },
+    {
+      "data": {
+        "stringId": 538,
+        "text": "銷毀量"
+      }
+    },
+    {
+      "data": {
+        "stringId": 540,
+        "text": "\u65b0 ROBUST\/\u5340\u584a"
+      }
+    },
+    {
+      "data": {
+        "stringId": 542,
+        "text": "\u8fb2\u5834\u548c\u8cea\u62bc"
+      }
+    },
+    {
+      "data": {
+        "stringId": 544,
+        "text": "\u5f85\u6536\u5272\u7684 ROBUST"
+      }
+    },
+    {
+      "data": {
+        "stringId": 546,
+        "text": "在你的錢包裡"
+      }
+    },
+    {
+      "data": {
+        "stringId": 548,
+        "text": "\u6b63\u5728\u6536\u96c6 RBS"
+      }
+    },
+    {
+      "data": {
+        "stringId": 549,
+        "text": "\u6b63\u5728\u6536\u96c6"
+      }
+    },
+    {
+      "data": {
+        "stringId": 550,
+        "text": "\u60a8\u7684\u5f69\u91d1"
+      }
+    },
+    {
+      "data": {
+        "stringId": 552,
+        "text": "\u5f85\u6536\u96c6\u7684 ROBUST"
+      }
+    },
+    {
+      "data": {
+        "stringId": 554,
+        "text": "\u6b64\u56de\u5408\u7684\u7e3d\u7d2f\u7a4d\u734e\u6c60"
+      }
+    },
+    {
+      "data": {
+        "stringId": 556,
+        "text": "\u6536\u96c6\u5f69\u91d1"
+      }
+    },
+    {
+      "data": {
+        "stringId": 558,
+        "text": "買"
+      }
+    },
+    {
+      "data": {
+        "stringId": 562,
+        "text": "\u6536\u5272"
+      }
+    },
+    {
+      "data": {
+        "stringId": 564,
+        "text": "\u6279\u51c6"
+      }
+    },
+    {
+      "data": {
+        "stringId": 568,
+        "text": "\u9078\u64c7"
+      }
+    },
+    {
+      "data": {
+        "stringId": 570,
+        "text": "\u6b64\u56de\u5408\u7684\u4e2d\u734e\u865f\u78bc"
+      }
+    },
+    {
+      "data": {
+        "stringId": 574,
+        "text": "\u8cea\u62bc\u8cc7\u91d1\u6c60"
+      }
+    },
+    {
+      "data": {
+        "stringId": 576,
+        "text": "歡迎來到ROBUSTSWAP"
+      }
+    },
+    {
+      "data": {
+        "stringId": 578,
+        "text": "一個超通貨緊縮的去中心化交易所, 旨在優化盈利能力."
+      }
+    },
+    {
+      "data": {
+        "stringId": 580,
+        "text": "\u8cea\u62bc ROBUST \u4ee5\u8cfa\u53d6\u65b0\u4ee3\u5e63"
+      }
+    },
+    {
+      "data": {
+        "stringId": 582,
+        "text": "\u767c\u8d77\u6642\u9593"
+      }
+    },
+    {
+      "data": {
+        "stringId": 584,
+        "text": "\u5f85\u552e"
+      }
+    },
+    {
+      "data": {
+        "stringId": 586,
+        "text": "\u5c07\u92b7\u6bc0\u7684 ROBUST (USD)"
+      }
+    },
+    {
+      "data": {
+        "stringId": 588,
+        "text": "\u53d6\u56de"
+      }
+    },
+    {
+      "data": {
+        "stringId": 590,
+        "text": "\u2b50\ufe0f \u6bcf\u7576\u60a8\u8cea\u62bc\u548c\u53d6\u56de LP \u4ee3\u5e63\u6642\uff0c\u5408\u7d04\u90fd\u6703\u81ea\u52d5\u70ba\u60a8\u6536\u5272 ROBUST \u734e\u52f5\uff01"
+      }
+    },
+    {
+      "data": {
+        "stringId": 592,
+        "text": "\u5982\u4f55\u53c3\u8207"
+      }
+    },
+    {
+      "data": {
+        "stringId": 594,
+        "text": "\u92b7\u552e\u524d"
+      }
+    },
+    {
+      "data": {
+        "stringId": 596,
+        "text": "\u8cfc\u8cb7 ROBUST \u548c BNB \u4ee3\u5e63"
+      }
+    },
+    {
+      "data": {
+        "stringId": 598,
+        "text": "\u589e\u52a0 ROBUST \u548c BNB \u6d41\u52d5\u6027\uff0c\u5f9e\u800c\u53d6\u5f97 ROBUST-BNB LP \u4ee3\u5e63"
+      }
+    },
+    {
+      "data": {
+        "stringId": 599,
+        "text": "終止"
+      }
+    },
+    {
+      "data": {
+        "stringId": 600,
+        "text": "\u92b7\u552e\u671f\u9593"
+      }
+    },
+    {
+      "data": {
+        "stringId": 601,
+        "text": "現行"
+      }
+    },
+    {
+      "data": {
+        "stringId": 602,
+        "text": "\u5728\u92b7\u552e\u904e\u7a0b\u4e2d\uff0c\u63d0\u4ea4\u60a8\u7684 ROBUST-LP \u4ee3\u5e63\u4f86\u8cfc\u8cb7 IPO \u4ee3\u5e63"
+      }
+    },
+    {
+      "data": {
+        "stringId": 604,
+        "text": "\u92b7\u552e\u5f8c"
+      }
+    },
+    {
+      "data": {
+        "stringId": 606,
+        "text": "\u9818\u53d6\u60a8\u8cfc\u8cb7\u7684\u4ee3\u5e63\u4ee5\u53ca\u4efb\u4f55\u672a\u82b1\u8cbb\u7684\u8cc7\u91d1\u3002"
+      }
+    },
+    {
+      "data": {
+        "stringId": 608,
+        "text": "\u5b8c\u6210\uff01"
+      }
+    },
+    {
+      "data": {
+        "stringId": 610,
+        "text": "\u95b1\u8b80\u66f4\u591a"
+      }
+    },
+    {
+      "data": {
+        "stringId": 612,
+        "text": "\u9023\u7dda"
+      }
+    },
+    {
+      "data": {
+        "stringId": 614,
+        "text": "\u7576\u5834\u4ea4\u6613\u6210 ROBUST\uff0c\u6216\u4f5c\u70ba\u6536\u85cf\u54c1\u800c\u4fdd\u7559\uff01"
+      }
+    },
+    {
+      "data": {
+        "stringId": 616,
+        "text": "\u82e5\u60f3\u8d0f\u53d6 NFT\uff0c\u8acb\u5728\u4e0b\u65b9\u8a3b\u518a\u3002"
+      }
+    },
+    {
+      "data": {
+        "stringId": 618,
+        "text": "\u8a3b\u518a\u5373\u6709\u6a5f\u6703\u8d0f\u5f97\u734e\u9805"
+      }
+    },
+    {
+      "data": {
+        "stringId": 620,
+        "text": "\u4e86\u89e3\u66f4\u591a"
+      }
+    },
+    {
+      "data": {
+        "stringId": 622,
+        "text": "\u7576\u5834\u4ea4\u6613\u6210 NFT"
+      }
+    },
+    {
+      "data": {
+        "stringId": 624,
+        "text": "\u7576\u5834\u4ea4\u6613"
+      }
+    },
+    {
+      "data": {
+        "stringId": 626,
+        "text": "\u60a8\u5c07\u7372\u5f97"
+      }
+    },
+    {
+      "data": {
+        "stringId": 628,
+        "text": "\u82e5\u60a8\u5c07 ROBUST \u7576\u5834\u4ea4\u6613\u6210 NFT \u4f86\u63a5\u6536\uff0c\u60a8\u4fbf\u6c38\u9060\u7121\u6cd5\u5b58\u53d6\u8a72 ROBUST\uff01"
+      }
+    },
+    {
+      "data": {
+        "stringId": 630,
+        "text": "\u9818\u53d6 NFT"
+      }
+    },
+    {
+      "data": {
+        "stringId": 632,
+        "text": "\u904b\u4f5c\u539f\u7406"
+      }
+    },
+    {
+      "data": {
+        "stringId": 634,
+        "text": "\u4e00\u65e6\u9818\u53d6\u968e\u6bb5\u958b\u59cb\uff0c\u7372\u52dd\u8005\u4fbf\u53ef\u4ee5\u5728\u6b64\u9801\u9762\u4e2d\u9818\u53d6 NFT\u3002"
+      }
+    },
+    {
+      "data": {
+        "stringId": 636,
+        "text": "\u5982\u679c\u60a8\u672a\u7372\u9078\uff0c\u4fbf\u7121\u6cd5\u9818\u53d6\u3002\u795d\u60a8\u4e0b\u6b21\u597d\u904b\uff01"
+      }
+    },
+    {
+      "data": {
+        "stringId": 638,
+        "text": "\u7372\u52dd\u8005\u53ef\u4ee5\u5c07\u5176 NFT \u7576\u5834\u4ea4\u6613\u6210 ROBUST \u50f9\u503c\uff0c\u76f4\u5230\u4e0b\u8ff0\u7684\u5230\u671f\u65e5\u70ba\u6b62\u3002\u5982\u679c\u5230\u90a3\u6642\u60a8\u4ecd\u672a\u514c\u63db\u60a8\u7684 NFT\uff0c\u8acb\u4e0d\u8981\u64d4\u5fc3\uff0c\u60a8\u4ecd\u53ef\u4ee5\u5c07\u5176\u5132\u5b58\u5728\u9322\u5305\u4e2d\uff01"
+      }
+    },
+    {
+      "data": {
+        "stringId": 640,
+        "text": "\u5982\u4f55\u9078\u64c7\u7372\u734e\u8005\uff1f"
+      }
+    },
+    {
+      "data": {
+        "stringId": 642,
+        "text": "\u7cfb\u7d71\u5c07\u96a8\u6a5f\u9078\u64c7\u7372\u52dd\u8005\uff01\u795d\u60a8\u597d\u904b\uff01"
+      }
+    },
+    {
+      "data": {
+        "stringId": 646,
+        "text": "\u7576\u5834\u4ea4\u6613\u7684\u50f9\u503c"
+      }
+    },
+    {
+      "data": {
+        "stringId": 648,
+        "text": "\u5df2\u767c\u884c\u6578\u91cf"
+      }
+    },
+    {
+      "data": {
+        "stringId": 650,
+        "text": "\u5df2\u92b7\u6bc0\u6578\u91cf"
+      }
+    },
+    {
+      "data": {
+        "stringId": 652,
+        "text": "\u9818\u53d6\u6b64 NFT"
+      }
+    },
+    {
+      "data": {
+        "stringId": 653,
+        "text": "最佳一雙"
+      }
+    },
+    {
+      "data": {
+        "stringId": 654,
+        "text": "\u7576\u5834\u4ea4\u6613\u6210 ROBUST"
+      }
+    },
+    {
+      "data": {
+        "stringId": 655,
+        "text": "頂池"
+      }
+    },
+    {
+      "data": {
+        "stringId": 656,
+        "text": "\u6b63\u5728\u8f09\u5165\u2026"
+      }
+    },
+    {
+      "data": {
+        "stringId": 657,
+        "text": "頂級農場"
+      }
+    },
+    {
+      "data": {
+        "stringId": 658,
+        "text": "細節"
+      }
+    },
+    {
+      "data": {
+        "stringId": 659,
+        "text": "活動"
+      }
+    },
+    {
+      "data": {
+        "stringId": 660,
+        "text": "\u60a8\u8d0f\u4e86\uff01"
+      }
+    },
+    {
+      "data": {
+        "stringId": 661,
+        "text": "完成的審計 - TechRate"
+      }
+    },
+    {
+      "data": {
+        "stringId": 662,
+        "text": "\u8acb\u5f9e\u4e0b\u5217\u9078\u9805\u4e2d\u9818\u53d6 NFT\uff01"
+      }
+    },
+    {
+      "data": {
+        "stringId": 663,
+        "text": "成為ROBUST家庭的一員"
+      }
+    },
+    {
+      "data": {
+        "stringId": 664,
+        "text": "\u53ef\u4ee5\u4ea4\u6613\u76f4\u5230"
+      }
+    },
+    {
+      "data": {
+        "stringId": 666,
+        "text": "\u5df2\u8207\u9322\u5305\u4e2d\u65b7\u9023\u7dda"
+      }
+    },
+    {
+      "data": {
+        "stringId": 668,
+        "text": "\u8acb\u9023\u7dda\u4ee5\u6aa2\u67e5\u60a8\u662f\u5426\u8d0f\u5f97\u4e86 NFT\uff01"
+      }
+    },
+    {
+      "data": {
+        "stringId": 670,
+        "text": "\u9996\u9801"
+      }
+    },
+    {
+      "data": {
+        "stringId": 672,
+        "text": "\u4ea4\u6613"
+      }
+    },
+    {
+      "data": {
+        "stringId": 674,
+        "text": "\u8fb2\u5834"
+      }
+    },
+    {
+      "data": {
+        "stringId": 676,
+        "text": "\u8cc7\u91d1\u6c60"
+      }
+    },
+    {
+      "data": {
+        "stringId": 678,
+        "text": "NFT"
+      }
+    },
+    {
+      "data": {
+        "stringId": 680,
+        "text": "\u8cc7\u8a0a"
+      }
+    },
+    {
+      "data": {
+        "stringId": 682,
+        "text": "IPO"
+      }
+    },
+    {
+      "data": {
+        "stringId": 684,
+        "text": "\u66f4\u591a"
+      }
+    },
+    {
+      "data": {
+        "stringId": 686,
+        "text": "流動性"
+      }
+    },
+    {
+      "data": {
+        "stringId": 688,
+        "text": "\u6982\u89bd"
+      }
+    },
+    {
+      "data": {
+        "stringId": 690,
+        "text": "\u4ee3\u5e63"
+      }
+    },
+    {
+      "data": {
+        "stringId": 692,
+        "text": "\u5e63\u5c0d"
+      }
+    },
+    {
+      "data": {
+        "stringId": 694,
+        "text": "\u5e33\u6236"
+      }
+    },
+    {
+      "data": {
+        "stringId": 696,
+        "text": "\u8cea\u62bc LP \u4ee3\u5e63\u4ee5\u8cfa\u53d6 ROBUST"
+      }
+    },
+    {
+      "data": {
+        "stringId": 698,
+        "text": "\u555f\u52d5\u4e2d"
+      }
+    },
+    {
+      "data": {
+        "stringId": 699,
+        "text": "已質押"
+      }
+    },
+    {
+      "data": {
+        "stringId": 700,
+        "text": "\u672a\u555f\u52d5"
+      }
+    },
+    {
+      "data": {
+        "stringId": 702,
+        "text": "\u96d9\u91cd"
+      }
+    },
+    {
+      "data": {
+        "stringId": 704,
+        "text": "\u4f7f\u7528\u8907\u5229"
+      }
+    },
+    {
+      "data": {
+        "stringId": 705,
+        "text": "Compounding"
+      }
+    },
+    {
+      "data": {
+        "stringId": 706,
+        "text": "\u53d6\u56de %asset%"
+      }
+    },
+    {
+      "data": {
+        "stringId": 708,
+        "text": "ROBUST \u5f69\u5238"
+      }
+    },
+    {
+      "data": {
+        "stringId": 710,
+        "text": "\u4f7f\u7528 ROBUST \u8cfc\u8cb7\u7968\u5238"
+      }
+    },
+    {
+      "data": {
+        "stringId": 712,
+        "text": "\u53ea\u8981\u60a8\u7684\u7968\u5238\u4e0a\u6709 2\u30013 \u6216 4 \u500b\u865f\u78bc\u76f8\u7b26\uff0c\u5c31\u80fd\u8d0f\u53d6\u734e\u91d1\uff01"
+      }
+    },
+    {
+      "data": {
+        "stringId": 716,
+        "text": "\u4e0b\u6b21\u958b\u734e"
+      }
+    },
+    {
+      "data": {
+        "stringId": 718,
+        "text": "\u5f80\u671f\u958b\u734e"
+      }
+    },
+    {
+      "data": {
+        "stringId": 720,
+        "text": "銷售稅"
+      }
+    },
+    {
+      "data": {
+        "stringId": 722,
+        "text": "購買稅"
+      }
+    },
+    {
+      "data": {
+        "stringId": 724,
+        "text": "轉讓稅"
+      }
+    },
+    {
+      "data": {
+        "stringId": 725,
+        "text": "隱藏"
+      }
+    },
+    {
+      "data": {
+        "stringId": 726,
+        "text": "金額限制"
+      }
+    },
+    {
+      "data": {
+        "stringId": 729,
+        "text": "ROBUST農場為您提供多種耕作機會和高額回報. 通過質押您的 LP 代幣獲得獎勵."
+      }
+    },
+    {
+      "data": {
+        "stringId": 730,
+        "text": "寻找有竞争力的回, 低风险且没有无常损失的农业替代方案? 在下方质押您的 RBS 和其他代币以赚取更多 RBS."
+      }
+    },
+    {
+      "data": {
+        "stringId": 731,
+        "text": "RBS 交易限額"
+      }
+    },
+    {
+      "data": {
+        "stringId": 733,
+        "text": "RBS 供應統計"
+      }
+    },
+    {
+      "data": {
+        "stringId": 734,
+        "text": "享受 "
+      }
+    },
+    {
+      "data": {
+        "stringId": 735,
+        "text": "自由"
+      }
+    },
+    {
+      "data": {
+        "stringId": 736,
+        "text": "在我們的特色農場存款."
+      }
+    },
+    {
+      "data": {
+        "stringId": 737,
+        "text": "高年利率,"
+      }
+    },
+    {
+      "data": {
+        "stringId": 738,
+        "text": "低風險收益."
+      }
+    },
+    {
+      "data": {
+        "stringId": 10001,
+        "text": "質押程序費"
+      }
+    },
+    {
+      "data": {
+        "stringId": 10002,
+        "text": "質押代幣以堆疊 ROBUST"
+      }
+    },
+    {
+      "data": {
+        "stringId": 10003,
+        "text": "一起賺 RBS."
+      }
+    },
+    {
+      "data": {
+        "stringId": 10004,
+        "text": "流通量"
+      }
+    },
+    {
+      "data": {
+        "stringId": 10005,
+        "text": "總市值"
+      }
+    },
+    {
+      "data": {
+        "stringId": 10006,
+        "text": "邀請朋友."
+      }
+    },
+    {
+      "data": {
+        "stringId": 10007,
+        "text": "使用您的推薦鏈接邀請您的朋友, 並從他們的收入中獲得獎勵."
+      }
+    },
+    {
+      "data": {
+        "stringId": 10008,
+        "text": "解鎖錢包以獲得您獨特的推薦鏈接"
+      }
+    },
+    {
+      "data": {
+        "stringId": 10009,
+        "text": "推薦鏈接"
+      }
+    },
+    {
+      "data": {
+        "stringId": 10010,
+        "text": "推薦總數"
+      }
+    },
+    {
+      "data": {
+        "stringId": 10011,
+        "text": "Search"
+      }
+    },
+    {
+      "data": {
+        "stringId": 10024,
+        "text": "您的RBS收入"
+      }
+    },
+    {
+      "data": {
+        "stringId": 10025,
+        "text": "總鎖倉"
+      }
+    },
+    {
+      "data": {
+        "stringId": 10026,
+        "text": "總鎖定獎勵"
+      }
+    },
+    {
+      "data": {
+        "stringId": 10027,
+        "text": "收穫鎖定"
+      }
+    },
+    {
+      "data": {
+        "stringId": 10028,
+        "text": "小時"
+      }
+    },
+    {
+      "data": {
+        "stringId": 10029,
+        "text": "收穫等待時間"
+      }
+    },
+    {
+      "data": {
+        "stringId": 10030,
+        "text": "最大值"
+      }
+    },
+    {
+      "data": {
+        "stringId": 10031,
+        "text": "ROBUST LP 價值"
+      }
+    },
+    {
+      "data": {
+        "stringId": 10032,
+        "text": "LP類型"
+      }
+    },
+    {
+      "data": {
+        "stringId": 10033,
+        "text": "徵稅總額"
+      }
+    },
+    {
+      "data": {
+        "stringId": 10034,
+        "text": "DEX統計"
+      }
+    },
+    {
+      "data": {
+        "stringId": 10035,
+        "text": "總流動性"
+      }
+    },
+    {
+      "data": {
+        "stringId": 10036,
+        "text": "24小時交易量"
+      }
+    },
+    {
+      "data": {
+        "stringId": 10037,
+        "text": "LP價值"
+      }
+    },
+    {
+      "data": {
+        "stringId": 10038,
+        "text": "代幣價格"
+      }
+    },
+    {
+      "data": {
+        "stringId": 10039,
+        "text": "在推特上關注我們"
+      }
+    },
+    {
+      "data": {
+        "stringId": 10040,
+        "text": "24小時低"
+      }
+    },
+    {
+      "data": {
+        "stringId": 10041,
+        "text": "24小時高"
+      }
+    },
+    {
+      "data": {
+        "stringId": 10042,
+        "text": "交易挖礦獎勵"
+      }
+    }
+  ],
+  "pagination": {
+    "offset": 0,
+    "limit": 200
+  }
+}

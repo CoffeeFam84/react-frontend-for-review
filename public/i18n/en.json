@@ -1,0 +1,386 @@
+{
+  "data": [
+    {
+      "data": {
+        "stringId": 76,
+        "text": "From"
+      }
+    },
+    {
+      "data": {
+        "stringId": 80,
+        "text": "To"
+      }
+    },
+    {
+      "data": {
+        "stringId": 82,
+        "text": "Select a currency"
+      }
+    },
+    {
+      "data": {
+        "stringId": 106,
+        "text": "Don't see a pool you joined?"
+      }
+    },
+    {
+      "data": {
+        "stringId": 132,
+        "text": "Input"
+      }
+    },
+    {
+      "data": {
+        "stringId": 136,
+        "text": "Invalid pair"
+      }
+    },
+    {
+      "data": {
+        "stringId": 138,
+        "text": "Trade tokens in an instant"
+      }
+    },
+    {
+      "data": {
+        "stringId": 140,
+        "text": "Slippage Tolerance"
+      }
+    },
+    {
+      "data": {
+        "stringId": 142,
+        "text": "Settings"
+      }
+    },
+    {
+      "data": {
+        "stringId": 144,
+        "text": "TX deadline (mins)"
+      }
+    },
+    {
+      "data": {
+        "stringId": 146,
+        "text": "Swap Sounds"
+      }
+    },
+    {
+      "data": {
+        "stringId": 148,
+        "text": "Fun sounds to create a truly immersive trading experience"
+      }
+    },
+    {
+      "data": {
+        "stringId": 150,
+        "text": "Enter a valid deadline"
+      }
+    },
+    {
+      "data": {
+        "stringId": 152,
+        "text": "Your transaction may fail"
+      }
+    },
+    {
+      "data": {
+        "stringId": 154,
+        "text": "Your transaction may be frontrun"
+      }
+    },
+    {
+      "data": {
+        "stringId": 156,
+        "text": "Enter a valid slippage percentage"
+      }
+    },
+    {
+      "data": {
+        "stringId": 158,
+        "text": "Your transaction will revert if the price changes unfavorably by more than this percentage."
+      }
+    },
+    {
+      "data": {
+        "stringId": 160,
+        "text": "Your transaction will revert if it is pending for more than this long."
+      }
+    },
+    {
+      "data": {
+        "stringId": 162,
+        "text": "Recent Transactions"
+      }
+    },
+    {
+      "data": {
+        "stringId": 164,
+        "text": "Please connect your wallet"
+      }
+    },
+    {
+      "data": {
+        "stringId": 166,
+        "text": "No recent transactions"
+      }
+    },
+    {
+      "data": {
+        "stringId": 168,
+        "text": "clear all"
+      }
+    },
+    {
+      "data": {
+        "stringId": 278,
+        "text": "Swap"
+      }
+    },
+    {
+      "data": {
+        "stringId": 280,
+        "text": "Liquidity"
+      }
+    },
+    {
+      "data": {
+        "stringId": 284,
+        "text": "Exchange"
+      }
+    },
+    {
+      "data": {
+        "stringId": 286,
+        "text": "Your Liquidity"
+      }
+    },
+    {
+      "data": {
+        "stringId": 288,
+        "text": "Remove liquidity to receive tokens back"
+      }
+    },
+    {
+      "data": {
+        "stringId": 290,
+        "text": "Connect to a wallet to view your liquidity."
+      }
+    },
+    {
+      "data": {
+        "stringId": 292,
+        "text": "UNLOCK WALLET"
+      }
+    },
+    {
+      "data": {
+        "stringId": 294,
+        "text": "Your %asset% Balance"
+      }
+    },
+    {
+      "data": {
+        "stringId": 295,
+        "text": "Find other LP tokens"
+      }
+    },
+    {
+      "data": {
+        "stringId": 296,
+        "text": "ADD LIQUIDITY"
+      }
+    },
+    {
+      "data": {
+        "stringId": 297,
+        "text": "REMOVE LIQUIDITY"
+      }
+    },
+    {
+      "data": {
+        "stringId": 298,
+        "text": "Add liquidity to receive LP tokens"
+      }
+    },
+    {
+      "data": {
+        "stringId": 299,
+        "text": "Loading"
+      }
+    },
+    {
+      "data": {
+        "stringId": 300,
+        "text": "No liquidity found."
+      }
+    },
+    {
+      "data": {
+        "stringId": 301,
+        "text": "No pool found."
+      }
+    },
+    {
+      "data": {
+        "stringId": 302,
+        "text": "Manage Tokens"
+      }
+    },
+    {
+      "data": {
+        "stringId": 303,
+        "text": "Select a list"
+      }
+    },
+    {
+      "data": {
+        "stringId": 304,
+        "text": "Manage"
+      }
+    },
+    {
+      "data": {
+        "stringId": 305,
+        "text": "Total USD value of funds in this pool"
+      }
+    },
+    {
+      "data": {
+        "stringId": 306,
+        "text": "See the Kitchen"
+      }
+    },
+    {
+      "data": {
+        "stringId": 308,
+        "text": "Telegram"
+      }
+    },
+    {
+      "data": {
+        "stringId": 310,
+        "text": "Blog"
+      }
+    },
+    {
+      "data": {
+        "stringId": 312,
+        "text": "Github"
+      }
+    },
+    {
+      "data": {
+        "stringId": 314,
+        "text": "Twitter"
+      }
+    },
+    {
+      "data": {
+        "stringId": 316,
+        "text": "Deposit"
+      }
+    },
+    {
+      "data": {
+        "stringId": 318,
+        "text": "Import Pool"
+      }
+    },
+    {
+      "data": {
+        "stringId": 319,
+        "text": "Use this tool to find pairs that does not automatically appear in the interface."
+      }
+    },
+    {
+      "data": {
+        "stringId": 320,
+        "text": "Connect to a wallet to find pools"
+      }
+    },
+    {
+      "data": {
+        "stringId": 321,
+        "text": "Select a token to find your liquidity."
+      }
+    },
+    {
+      "data": {
+        "stringId": 322,
+        "text": "Select a Token"
+      }
+    },
+    {
+      "data": {
+        "stringId": 323,
+        "text": "Pool Found!"
+      }
+    },
+    {
+      "data": {
+        "stringId": 324,
+        "text": "You don’t have liquidity in this pool yet."
+      }
+    },
+    {
+      "data": {
+        "stringId": 325,
+        "text": "No pool found"
+      }
+    },
+    {
+      "data": {
+        "stringId": 326,
+        "text": "Create pool"
+      }
+    },
+    {
+      "data": {
+        "stringId": 328,
+        "text": "Invalid pair"
+      }
+    },
+    {
+      "data": {
+        "stringId": 329,
+        "text": "Staked"
+      }
+    },
+    {
+      "data": {
+        "stringId": 330,
+        "text": "ENTER AMOUNT"
+      }
+    },
+    {
+      "data": {
+        "stringId": 331,
+        "text": "Earned"
+      }
+    },
+    {
+      "data": {
+        "stringId": 332,
+        "text": "Tokens Staked"
+      }
+    },
+    {
+      "data": {
+        "stringId": 333,
+        "text": "Staked Tokens"
+      }
+    },
+    {
+      "data": {
+        "stringId": 10042,
+        "text": "Trade Mining Reward"
+      }
+    }
+  ],
+  "pagination": {
+    "offset": 0,
+    "limit": 200
+  }
+}
